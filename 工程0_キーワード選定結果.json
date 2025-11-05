@@ -1,0 +1,127 @@
+{
+    "selected_keyword": "派遣 社員 e ラーニング",
+    "keyword_analysis": {
+        "search_volume": "月間1,800回 (推定)",
+        "competition": "高",
+        "cv_distance": "近い（購入直前段階）",
+        "phase": "phase3",
+        "expected_cvr": "4.5%"
+    },
+    "article_type": "悩み解決型（比較検討）",
+    "persona_hypothesis": {
+        "job_title": "派遣会社の人事部長、教育決裁責任者",
+        "age": "30〜50代",
+        "challenges": "教育リソースのROI（費用対効果）の最大化。改正派遣法への対応コスト。競合他社との差別化。特に、日本人スタッフとは別に発生する『外国人材の生活ルール教育（ゴミ出し、職場NG行動など）』という『見えないコスト』に課題認識を持つ。",
+        "search_intent": "派遣社員向けeラーニングを『費用対効果』と『法的リスク』の観点から比較検討している。『お試しプラン』や『導入実績（社会的証明）』を重視し、低リスクで導入を決定したい。あわよくば『外国人材の教育コスト』も一括で解決できるサービスを探している。"
+    },
+    "neuroscience_evaluation": {
+        "phase": "phase3",
+        "brain_activation": "線条体（報酬予測）＋扁桃体（損失回避）",
+        "emotional_trigger": "決裁者としてのROI（費用対効果）、法的リスク、競合優位性（損失回避）。",
+        "cognitive_load": "低（「お試しプラン」という低リスクな行動提案により、決定の認知負荷を下げる）",
+        "commitment_window": "5秒以内の行動誘導可能（「お試しプラン」＋「限定性」）"
+    },
+    "behavioral_economics": {
+        "loss_aversion_frame": "◎ 非常に高い相性（『外国人教育コスト』と『日本人教育コスト』を別々に払う損失を回避できる点を訴求）",
+        "social_proof_compatibility": "◎ 非常に高い相性（『大手から中小まで導入企業実績豊富』が決裁者の不安を解消する）",
+        "authority": "○ 適用可能（改正派遣法への対応を明記）",
+        "consistency": "△ 部分的",
+        "liking": "○ 適用可能（決裁者の課題解決エピソード）",
+        "scarcity": "◎ 非常に高い相性（『初年度限定用_ご提案資料.pdf』の『お試しプラン』が強力な希少性として機能）",
+        "primary_principle": "社会的証明 + 希少性 + 損失回避"
+    },
+    "llmo_evaluation": {
+        "ai_citation_probability": "中（競合が多いため。『外国人材の生活ルール』という独自セクションでの引用を狙う）",
+        "question_format": "はい（「派遣社員のeラーニングのおすすめは？」など）",
+        "voice_search_optimized": "はい（自然な口語表現）",
+        "section_independence": "高（「コスト比較」「機能比較」「外国人材への対応」などサブトピックが明確）",
+        "structured_data_friendly": "はい（比較表、FAQに最適）"
+    },
+    "kgi_evaluation": {
+        "cv_distance": "近い（購入直前段階）",
+        "expected_cvr": "4.5%",
+        "cta_strategy": "◎ 非常に高い整合性。例外条件該当。3つのカスタムCTAを配置。特にFinal CTAでは、行動経済学の『ナッジ（おとり効果・中心性効果）』を適用。『詳細資料(おとり)』と『無料相談(高ハードル)』を提示し、『お試しプラン(最適解)』への選択を心理的に誘導する。",
+        "estimated_monthly_inquiries": "12.1件（1,800回 × 15% CTR × 4.5% CVR）",
+        "roi_assessment": "高"
+    },
+    "cta_specification": {
+        "default_cta": {
+            "url": "https://crosslink.jp.net/crosslearning/",
+            "text": "クロスラーニングの詳細を見る",
+            "description": "クロスラーニング広報サイトのTOPページへ誘導",
+            "placement": []
+        },
+        "exception_applicable": true,
+        "custom_cta": [
+            {
+                "id": "cta_details_download",
+                "url": "/download/crosslearning-details/",
+                "text": "クロスラーニングの詳細を見る（資料ダウンロード）",
+                "description": "サービス詳細資料のPDFダウンロードページ（※URLはダミー）。Final CTAでは『おとり効果』の選択肢として配置。",
+                "placement": [
+                    "Early CTA（650字前後）",
+                    "Mid CTA（2,800字前後）",
+                    "Final CTA（専用セクション）"
+                ],
+                "reason": "例外条件1該当：詳細資料のダウンロードCTA"
+            },
+            {
+                "id": "cta_trial_download",
+                "url": "/download/trial-plan-details/",
+                "text": "お試しプランの詳細を見る（資料ダウンロード）",
+                "description": "初年度限定お試しプラン資料のPDFダウンロードページ（※URLはダミー）。行動経済学の『中心性効果』および『社会的証明（一番人気と訴求）』の対象とする最重要CTA。",
+                "placement": [
+                    "Mid CTA（4,500字前後）",
+                    "Final CTA（専用セクション・中央配置推奨）"
+                ],
+                "reason": "例外条件1該当：お試しプラン資料のダウンロードCTA"
+            },
+            {
+                "id": "cta_free_consultation",
+                "url": "https://crosslink.jp.net/crosslearning/seminar/kyariaup/",
+                "text": "無料で相談する",
+                "description": "具体的な導入相談やオンラインセミナー申込ページ。Final CTAでは『高ハードル』の選択肢として配置。",
+                "placement": [
+                    "Final CTA（専用セクション）"
+                ],
+                "reason": "例外条件1該当：無料相談CTA"
+            }
+        ],
+        "constraint_notes": [
+            "上記3つのカスタムCTAを戦略的に配置する。",
+            "特にFinal CTAでは『お試しプラン』が最適解に見えるよう、ナッジ理論に基づき配置する。",
+            "AIが独自にCTAを考案することは禁止。"
+        ]
+    },
+    "article_specifications": {
+        "max_word_count": 8000,
+        "target_word_count": "6,000〜8,000字",
+        "writing_style": "結論ファースト（各セクション冒頭で結論提示）+作り手のエピソードと人間味のある文章構成（※決裁者の課題解決ストーリーを推奨）",
+        "redundancy_check": "記事完成後に冗長・重複箇所を指摘し添削",
+        "phase_distribution": {
+            "phase1": "500〜800字（課題の共感：コスト・法対応・外国人教育）",
+            "phase2": "4,500〜6,000字（解決策提示：競合比較と差別化ポイント）",
+            "phase3": "1,000〜1,200字（行動促進：お試しプラン・無料相談）"
+        }
+    },
+    "four_pillar_score": {
+        "neuroscience": 5,
+        "behavioral_economics": 5,
+        "llmo": 4,
+        "kgi": 5,
+        "total": 19
+    },
+    "recommendation_reason": "検索ボリューム（推定1,800回）とCVR（期待値4.5%）のバランスが最も優れたPhase 3キーワードです。競合は多いですが、その大半は「一般的なスキル」や「法改正対応」に留まっています。本記事では、決裁者の視点（ROI、法的リスク）に応えつつ、貴社の強みである『外国人材の生活ルール教育まで網羅』という強力な差別化ポイントを提示します。これにより、他社比較で圧倒的優位に立ち、「お試しプラン」へのCVを最大化します。",
+    "alternative_keywords": [
+        {
+            "keyword": "派遣社員 教育 課題",
+            "score": 18,
+            "reason": "Phase 2キーワード。検索ボリュームが大きく（推定2,400回）、潜在層へのリーチに最適。本記事（Phase 3）で刈り取りつつ、こちらの記事で認知を広げる両面作戦が有効。"
+        },
+        {
+            "keyword": "派遣社員 マニュアル作成",
+            "score": 16,
+            "reason": "「教育 課題」に近いPhase 2キーワード。eラーニングを「マニュアル作成・運用の工数を削減するツール」として訴求可能。"
+        }
+    ]
+}

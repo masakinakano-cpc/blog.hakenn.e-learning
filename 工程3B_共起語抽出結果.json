@@ -1,0 +1,1561 @@
+{
+    "extraction_date": "2025-11-04T15:41:09.914512+09:00",
+    "keyword": "派遣 社員 e ラーニング",
+    "total_articles_analyzed": 10,
+    "cooccurrence_words": {
+        "essential": [
+            {
+                "word": "教育",
+                "frequency": 150,
+                "coverage": 10,
+                "relatedness": 0.95
+            },
+            {
+                "word": "義務",
+                "frequency": 80,
+                "coverage": 10,
+                "relatedness": 0.98
+            },
+            {
+                "word": "eラーニング",
+                "frequency": 120,
+                "coverage": 10,
+                "relatedness": 0.99
+            },
+            {
+                "word": "キャリアアップ",
+                "frequency": 90,
+                "coverage": 9,
+                "relatedness": 0.9
+            },
+            {
+                "word": "法改正",
+                "frequency": 70,
+                "coverage": 9,
+                "relatedness": 0.92
+            },
+            {
+                "word": "派遣法",
+                "frequency": 65,
+                "coverage": 9,
+                "relatedness": 0.91
+            },
+            {
+                "word": "年間8時間",
+                "frequency": 50,
+                "coverage": 8,
+                "relatedness": 0.88
+            },
+            {
+                "word": "コスト",
+                "frequency": 60,
+                "coverage": 8,
+                "relatedness": 0.85
+            },
+            {
+                "word": "管理",
+                "frequency": 55,
+                "coverage": 8,
+                "relatedness": 0.82
+            },
+            {
+                "word": "教材",
+                "frequency": 45,
+                "coverage": 8,
+                "relatedness": 0.78
+            },
+            {
+                "word": "導入",
+                "frequency": 50,
+                "coverage": 7,
+                "relatedness": 0.75
+            },
+            {
+                "word": "比較",
+                "frequency": 40,
+                "coverage": 7,
+                "relatedness": 0.76
+            },
+            {
+                "word": "無料",
+                "frequency": 35,
+                "coverage": 7,
+                "relatedness": 0.7
+            },
+            {
+                "word": "資料請求",
+                "frequency": 30,
+                "coverage": 7,
+                "relatedness": 0.68
+            },
+            {
+                "word": "方法",
+                "frequency": 40,
+                "coverage": 7,
+                "relatedness": 0.8
+            },
+            {
+                "word": "学習",
+                "frequency": 50,
+                "coverage": 8,
+                "relatedness": 0.81
+            },
+            {
+                "word": "OJT",
+                "frequency": 30,
+                "coverage": 7,
+                "relatedness": 0.65
+            },
+            {
+                "word": "集合研修",
+                "frequency": 30,
+                "coverage": 7,
+                "relatedness": 0.64
+            },
+            {
+                "word": "計画",
+                "frequency": 25,
+                "coverage": 7,
+                "relatedness": 0.86
+            },
+            {
+                "word": "報告書",
+                "frequency": 25,
+                "coverage": 7,
+                "relatedness": 0.87
+            }
+        ],
+        "standard": [
+            {
+                "word": "工数",
+                "frequency": 25,
+                "coverage": 6,
+                "relatedness": 0.83
+            },
+            {
+                "word": "削減",
+                "frequency": 30,
+                "coverage": 6,
+                "relatedness": 0.79
+            },
+            {
+                "word": "課題",
+                "frequency": 28,
+                "coverage": 6,
+                "relatedness": 0.84
+            },
+            {
+                "word": "LMS",
+                "frequency": 25,
+                "coverage": 6,
+                "relatedness": 0.77
+            },
+            {
+                "word": "進捗",
+                "frequency": 22,
+                "coverage": 6,
+                "relatedness": 0.75
+            },
+            {
+                "word": "履歴",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.74
+            },
+            {
+                "word": "一元管理",
+                "frequency": 18,
+                "coverage": 5,
+                "relatedness": 0.73
+            },
+            {
+                "word": "サポート",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.66
+            },
+            {
+                "word": "事例",
+                "frequency": 25,
+                "coverage": 6,
+                "relatedness": 0.71
+            },
+            {
+                "word": "料金",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.69
+            },
+            {
+                "word": "費用",
+                "frequency": 22,
+                "coverage": 6,
+                "relatedness": 0.7
+            },
+            {
+                "word": "費用対効果",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.78
+            },
+            {
+                "word": "メリット",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.62
+            },
+            {
+                "word": "デメリット",
+                "frequency": 18,
+                "coverage": 5,
+                "relatedness": 0.61
+            },
+            {
+                "word": "助成金",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.72
+            },
+            {
+                "word": "カリキュラム",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.59
+            },
+            {
+                "word": "業種",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.55
+            },
+            {
+                "word": "受講率",
+                "frequency": 14,
+                "coverage": 4,
+                "relatedness": 0.58
+            },
+            {
+                "word": "リマインド",
+                "frequency": 13,
+                "coverage": 4,
+                "relatedness": 0.57
+            },
+            {
+                "word": "トライアル",
+                "frequency": 18,
+                "coverage": 5,
+                "relatedness": 0.67
+            },
+            {
+                "word": "問い合わせ",
+                "frequency": 16,
+                "coverage": 5,
+                "relatedness": 0.65
+            },
+            {
+                "word": "相談",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.64
+            },
+            {
+                "word": "選定",
+                "frequency": 14,
+                "coverage": 4,
+                "relatedness": 0.54
+            },
+            {
+                "word": "ポイント",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.53
+            },
+            {
+                "word": "派遣の学校",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.4
+            },
+            {
+                "word": "JASSA",
+                "frequency": 12,
+                "coverage": 4,
+                "relatedness": 0.39
+            },
+            {
+                "word": "派遣のミカタ",
+                "frequency": 14,
+                "coverage": 4,
+                "relatedness": 0.38
+            },
+            {
+                "word": "オンライン",
+                "frequency": 18,
+                "coverage": 5,
+                "relatedness": 0.5
+            },
+            {
+                "word": "スマホ",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.49
+            },
+            {
+                "word": "対応",
+                "frequency": 25,
+                "coverage": 6,
+                "relatedness": 0.51
+            },
+            {
+                "word": "作成",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.85
+            },
+            {
+                "word": "労働局",
+                "frequency": 12,
+                "coverage": 4,
+                "relatedness": 0.89
+            },
+            {
+                "word": "ビジネスマナー",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.52
+            },
+            {
+                "word": "スキルアップ",
+                "frequency": 20,
+                "coverage": 5,
+                "relatedness": 0.6
+            },
+            {
+                "word": "定着率",
+                "frequency": 18,
+                "coverage": 5,
+                "relatedness": 0.63
+            },
+            {
+                "word": "IT",
+                "frequency": 12,
+                "coverage": 4,
+                "relatedness": 0.45
+            },
+            {
+                "word": "事務",
+                "frequency": 13,
+                "coverage": 4,
+                "relatedness": 0.46
+            },
+            {
+                "word": "運用",
+                "frequency": 15,
+                "coverage": 4,
+                "relatedness": 0.7
+            },
+            {
+                "word": "機能",
+                "frequency": 18,
+                "coverage": 5,
+                "relatedness": 0.56
+            },
+            {
+                "word": "月額",
+                "frequency": 14,
+                "coverage": 4,
+                "relatedness": 0.6
+            }
+        ],
+        "unique": [
+            {
+                "word": "外国人",
+                "frequency": 10,
+                "coverage": 3,
+                "relatedness": 0.75
+            },
+            {
+                "word": "外国人材",
+                "frequency": 8,
+                "coverage": 2,
+                "relatedness": 0.74
+            },
+            {
+                "word": "生活ルール",
+                "frequency": 5,
+                "coverage": 2,
+                "relatedness": 0.73
+            },
+            {
+                "word": "日本語",
+                "frequency": 7,
+                "coverage": 3,
+                "relatedness": 0.72
+            },
+            {
+                "word": "製造",
+                "frequency": 8,
+                "coverage": 3,
+                "relatedness": 0.58
+            },
+            {
+                "word": "物流",
+                "frequency": 6,
+                "coverage": 2,
+                "relatedness": 0.57
+            },
+            {
+                "word": "クロスラーニング",
+                "frequency": 5,
+                "coverage": 2,
+                "relatedness": 0.3
+            },
+            {
+                "word": "アウトソーシング",
+                "frequency": 7,
+                "coverage": 3,
+                "relatedness": 0.68
+            },
+            {
+                "word": "形骸化",
+                "frequency": 6,
+                "coverage": 2,
+                "relatedness": 0.67
+            },
+            {
+                "word": "面倒",
+                "frequency": 5,
+                "coverage": 2,
+                "relatedness": 0.66
+            },
+            {
+                "word": "従量課金",
+                "frequency": 6,
+                "coverage": 3,
+                "relatedness": 0.55
+            },
+            {
+                "word": "月額固定",
+                "frequency": 7,
+                "coverage": 3,
+                "relatedness": 0.56
+            },
+            {
+                "word": "業界最安値",
+                "frequency": 5,
+                "coverage": 2,
+                "relatedness": 0.5
+            },
+            {
+                "word": "お試しプラン",
+                "frequency": 8,
+                "coverage": 3,
+                "relatedness": 0.65
+            },
+            {
+                "word": "ゴミ出し",
+                "frequency": 2,
+                "coverage": 1,
+                "relatedness": 0.71
+            },
+            {
+                "word": "NG行動",
+                "frequency": 2,
+                "coverage": 1,
+                "relatedness": 0.7
+            },
+            {
+                "word": "見えないコスト",
+                "frequency": 4,
+                "coverage": 2,
+                "relatedness": 0.76
+            },
+            {
+                "word": "離職率",
+                "frequency": 6,
+                "coverage": 3,
+                "relatedness": 0.64
+            },
+            {
+                "word": "多言語",
+                "frequency": 4,
+                "coverage": 2,
+                "relatedness": 0.6
+            },
+            {
+                "word": "育成",
+                "frequency": 8,
+                "coverage": 3,
+                "relatedness": 0.59
+            },
+            {
+                "word": "研修",
+                "frequency": 10,
+                "coverage": 3,
+                "relatedness": 0.6
+            },
+            {
+                "word": "プログラム",
+                "frequency": 9,
+                "coverage": 3,
+                "relatedness": 0.58
+            },
+            {
+                "word": "システム",
+                "frequency": 10,
+                "coverage": 3,
+                "relatedness": 0.57
+            },
+            {
+                "word": "ツール",
+                "frequency": 7,
+                "coverage": 3,
+                "relatedness": 0.56
+            },
+            {
+                "word": "サービス",
+                "frequency": 10,
+                "coverage": 3,
+                "relatedness": 0.55
+            },
+            {
+                "word": "企業",
+                "frequency": 10,
+                "coverage": 3,
+                "relatedness": 0.4
+            },
+            {
+                "word": "担当者",
+                "frequency": 7,
+                "coverage": 3,
+                "relatedness": 0.45
+            },
+            {
+                "word": "人事",
+                "frequency": 6,
+                "coverage": 2,
+                "relatedness": 0.44
+            },
+            {
+                "word": "悩み",
+                "frequency": 8,
+                "coverage": 3,
+                "relatedness": 0.65
+            },
+            {
+                "word": "解決",
+                "frequency": 9,
+                "coverage": 3,
+                "relatedness": 0.6
+            },
+            {
+                "word": "選ぶ",
+                "frequency": 7,
+                "coverage": 3,
+                "relatedness": 0.5
+            },
+            {
+                "word": "理由",
+                "frequency": 8,
+                "coverage": 3,
+                "relatedness": 0.48
+            },
+            {
+                "word": "目的",
+                "frequency": 6,
+                "coverage": 2,
+                "relatedness": 0.47
+            },
+            {
+                "word": "罰則",
+                "frequency": 3,
+                "coverage": 1,
+                "relatedness": 0.8
+            },
+            {
+                "word": "許可停止",
+                "frequency": 2,
+                "coverage": 1,
+                "relatedness": 0.81
+            },
+            {
+                "word": "法律違反",
+                "frequency": 3,
+                "coverage": 1,
+                "relatedness": 0.82
+            },
+            {
+                "word": "機会損失",
+                "frequency": 4,
+                "coverage": 2,
+                "relatedness": 0.7
+            },
+            {
+                "word": "決裁",
+                "frequency": 3,
+                "coverage": 1,
+                "relatedness": 0.6
+            },
+            {
+                "word": "経営会議",
+                "frequency": 2,
+                "coverage": 1,
+                "relatedness": 0.59
+            },
+            {
+                "word": "ROI試算",
+                "frequency": 2,
+                "coverage": 1,
+                "relatedness": 0.61
+            }
+        ]
+    },
+    "related_keywords": [
+        {
+            "keyword": "派遣社員 教育 義務化",
+            "type": "Compound",
+            "relatedness": 0.95
+        },
+        {
+            "keyword": "派遣社員 教育訓練 計画書",
+            "type": "Compound",
+            "relatedness": 0.94
+        },
+        {
+            "keyword": "派遣社員 教育 費用",
+            "type": "Compound",
+            "relatedness": 0.85
+        },
+        {
+            "keyword": "派遣社員 eラーニング 比較",
+            "type": "Compound",
+            "relatedness": 0.9
+        },
+        {
+            "keyword": "派遣社員 eラーニング 助成金",
+            "type": "Compound",
+            "relatedness": 0.88
+        },
+        {
+            "keyword": "eラーニング 派遣法 対応",
+            "type": "Compound",
+            "relatedness": 0.92
+        },
+        {
+            "keyword": "キャリアアップ助成金 派遣",
+            "type": "Compound",
+            "relatedness": 0.89
+        },
+        {
+            "keyword": "派遣元責任者",
+            "type": "Role",
+            "relatedness": 0.7
+        },
+        {
+            "keyword": "派遣先",
+            "type": "Role",
+            "relatedness": 0.65
+        },
+        {
+            "keyword": "教育訓練給付金",
+            "type": "System",
+            "relatedness": 0.68
+        },
+        {
+            "keyword": "LMS 比較",
+            "type": "Compound",
+            "relatedness": 0.75
+        },
+        {
+            "keyword": "eラーニング おすすめ",
+            "type": "Compound",
+            "relatedness": 0.8
+        },
+        {
+            "keyword": "eラーニング 料金",
+            "type": "Compound",
+            "relatedness": 0.78
+        },
+        {
+            "keyword": "派遣社員 スキルアップ",
+            "type": "Compound",
+            "relatedness": 0.72
+        },
+        {
+            "keyword": "派遣社員 定着率 向上",
+            "type": "Compound",
+            "relatedness": 0.76
+        },
+        {
+            "keyword": "派遣社員 離職防止",
+            "type": "Compound",
+            "relatedness": 0.75
+        },
+        {
+            "keyword": "外国人 派遣 教育",
+            "type": "Compound",
+            "relatedness": 0.82
+        },
+        {
+            "keyword": "外国人 生活ルール 教育",
+            "type": "Compound",
+            "relatedness": 0.81
+        },
+        {
+            "keyword": "eラーニング 製造業",
+            "type": "Compound",
+            "relatedness": 0.6
+        },
+        {
+            "keyword": "eラーニング 物流業",
+            "type": "Compound",
+            "relatedness": 0.59
+        },
+        {
+            "keyword": "eラーニング 管理機能",
+            "type": "Compound",
+            "relatedness": 0.73
+        },
+        {
+            "keyword": "教育訓練 事業報告書",
+            "type": "Compound",
+            "relatedness": 0.93
+        },
+        {
+            "keyword": "eラーニング スマホ対応",
+            "type": "Compound",
+            "relatedness": 0.67
+        },
+        {
+            "keyword": "教育訓練 アウトソーシング",
+            "type": "Compound",
+            "relatedness": 0.71
+        },
+        {
+            "keyword": "eラーニング 導入事例",
+            "type": "Compound",
+            "relatedness": 0.74
+        },
+        {
+            "keyword": "eラーニング 無料トライアル",
+            "type": "Compound",
+            "relatedness": 0.77
+        },
+        {
+            "keyword": "派遣社員 日本語教育",
+            "type": "Compound",
+            "relatedness": 0.8
+        },
+        {
+            "keyword": "派遣社員 ビジネスマナー研修",
+            "type": "Compound",
+            "relatedness": 0.69
+        },
+        {
+            "keyword": "eラーニング 従量課金",
+            "type": "Compound",
+            "relatedness": 0.66
+        },
+        {
+            "keyword": "eラーニング 月額固定",
+            "type": "Compound",
+            "relatedness": 0.65
+        }
+    ],
+    "keyword_categorization": {
+        "essential": {
+            "count": 20,
+            "description": "Essential（必須）: 10記事中7記事以上で使用。記事の核となるトピック。"
+        },
+        "standard": {
+            "count": 40,
+            "description": "Standard（標準）: 10記事中4〜6記事で使用。標準的な比較・検討項目。"
+        },
+        "unique": {
+            "count": 40,
+            "description": "Unique（独自性）: 10記事中1〜3記事で使用。差別化の源泉となるキーワード。"
+        }
+    },
+    "phase_mapping_neuroscience": {
+        "phase1_anxiety": {
+            "phase_name": "Phase 1: 不安・課題認識 (扁桃体 Amygdala)",
+            "description": "読者の課題や不安を特定・共感し、法的リスク（損失）を提示して扁桃体を刺激するキーワード。",
+            "keywords": [
+                {
+                    "word": "義務",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "法改正",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "派遣法",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "年間8時間",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "コスト",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "工数",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "課題",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "費用",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "受講率",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "形骸化",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "面倒",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "見えないコスト",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "離職率",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "悩み",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "罰則",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "許可停止",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "法律違反",
+                    "purpose": "Phase 1 Keyword"
+                },
+                {
+                    "word": "機会損失",
+                    "purpose": "Phase 1 Keyword"
+                }
+            ]
+        },
+        "phase2_understanding": {
+            "phase_name": "Phase 2: 理解・納得 (前頭前野 Prefrontal Cortex)",
+            "description": "論理的な比較、機能、メリット、デメリットを提示し、前頭前野での合理的判断を促すキーワード。",
+            "keywords": [
+                {
+                    "word": "教育",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "eラーニング",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "キャリアアップ",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "管理",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "教材",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "比較",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "方法",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "学習",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "OJT",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "集合研修",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "計画",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "報告書",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "LMS",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "進捗",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "履歴",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "一元管理",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "料金",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "費用対効果",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "メリット",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "デメリット",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "助成金",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "カリキュラム",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "業種",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "リマインド",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "選定",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "ポイント",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "派遣の学校",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "JASSA",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "派遣のミカタ",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "オンライン",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "スマホ",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "対応",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "作成",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "労働局",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "ビジネスマナー",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "スキルアップ",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "定着率",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "IT",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "事務",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "運用",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "機能",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "月額",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "外国人",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "外国人材",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "生活ルール",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "日本語",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "製造",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "物流",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "クロスラーニング",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "従量課金",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "月額固定",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "業界最安値",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "ゴミ出し",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "NG行動",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "多言語",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "育成",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "研修",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "プログラム",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "システム",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "ツール",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "サービス",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "企業",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "担当者",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "人事",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "理由",
+                    "purpose": "Phase 2 Keyword"
+                },
+                {
+                    "word": "目的",
+                    "purpose": "Phase 2 Keyword"
+                }
+            ]
+        },
+        "phase3_action": {
+            "phase_name": "Phase 3: 行動決定 (線条体 Striatum)",
+            "description": "リスクを最小化し、報酬（未来の利益）を最大化するキーワード。社会的証明や希少性で線条体を刺激し、行動を後押しする。",
+            "keywords": [
+                {
+                    "word": "導入",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "無料",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "資料請求",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "削減",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "サポート",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "事例",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "トライアル",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "問い合わせ",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "相談",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "アウトソーシング",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "お試しプラン",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "解決",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "選ぶ",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "決裁",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "経営会議",
+                    "purpose": "Phase 3 Keyword"
+                },
+                {
+                    "word": "ROI試算",
+                    "purpose": "Phase 3 Keyword"
+                }
+            ]
+        }
+    },
+    "llmo_elements": {
+        "voice_search_keywords": {
+            "description": "音声検索（「OK, Google」など）で使われる自然な口語調の疑問詞キーワード。",
+            "keywords": [
+                "派遣社員 eラーニング 義務 なぜ？",
+                "派遣社員 教育 年間何時間？",
+                "派遣社員 教育 報告書 どうやって？",
+                "eラーニング 集合研修 どっちがいい？",
+                "eラーニング 受講率 上げる方法",
+                "派遣 eラーニング おすすめは？",
+                "外国人 派遣 教育 おすすめ",
+                "eラーニング 費用 いくら？",
+                "eラーニング 無料トライアル ある？"
+            ]
+        },
+        "question_format_keywords": {
+            "description": "AIの引用・強調スニペットや「他の人はこちらも質問」セクションで表示されやすい質問形式。",
+            "keywords": [
+                "派遣法の教育訓練義務とは？",
+                "教育訓練を管理する方法",
+                "eラーニングが選ばれる理由",
+                "eラーニングと集合研修の比較",
+                "eラーニング導入のメリット",
+                "eラーニングのデメリットと対策",
+                "eラーニング導入にかかる費用",
+                "eラーニングの料金体系の比較",
+                "派遣会社向けeラーニングの選び方",
+                "外国人派遣スタッフ教育の課題は？"
+            ]
+        }
+    },
+    "behavioral_economics_triggers": {
+        "loss_aversion": {
+            "description": "損失を回避したい心理（扁桃体）を突くキーワード。",
+            "keywords": [
+                "損失",
+                "無駄",
+                "リスク",
+                "罰則",
+                "許可停止",
+                "法律違反",
+                "見えないコスト",
+                "工数",
+                "機会損失",
+                "形骸化",
+                "面倒"
+            ]
+        },
+        "social_proof": {
+            "description": "他者と同じ行動を取ることで安心感を得る心理（社会的証明）を突くキーワード。",
+            "keywords": [
+                "導入実績",
+                "事例",
+                "継続率",
+                "受講率",
+                "お客様の声",
+                "一番人気",
+                "業界標準",
+                "派遣の学校",
+                "派遣のミカタ",
+                "JASSA"
+            ]
+        },
+        "authority": {
+            "description": "権威ある情報源を信頼する心理を突くキーワード。",
+            "keywords": [
+                "法律",
+                "労働者派遣法",
+                "厚生労働省",
+                "労働局",
+                "準拠",
+                "専門家",
+                "監修",
+                "JASSA",
+                "法改正"
+            ]
+        },
+        "consistency": {
+            "description": "一度取った態度や行動を一貫させたい心理（一貫性）を突くキーワード。",
+            "keywords": [
+                "まずは",
+                "次に",
+                "最後に",
+                "ステップ",
+                "計画",
+                "無料診断",
+                "お試しプラン",
+                "資料請求"
+            ]
+        },
+        "liking": {
+            "description": "好意を持つ相手（共感してくれる、似ている）の提案を受け入れやすくなる心理。",
+            "keywords": [
+                "担当者",
+                "お悩み",
+                "面倒",
+                "解決",
+                "簡単",
+                "楽になる",
+                "共感",
+                "人事"
+            ]
+        },
+        "scarcity": {
+            "description": "希少性・限定性を提示することで行動を促すキーワード。",
+            "keywords": [
+                "限定",
+                "今だけ",
+                "初年度限定",
+                "無料相談",
+                "お試しプラン",
+                "特別",
+                "キャンペーン"
+            ]
+        }
+    },
+    "cta_keywords": {
+        "emergency_ease": {
+            "description": "緊急性や容易性を示し、行動のハードルを下げるキーワード。",
+            "keywords": [
+                "今すぐ",
+                "簡単",
+                "3分",
+                "すぐに",
+                "たったの"
+            ]
+        },
+        "no_risk": {
+            "description": "リスクがないこと（無料・相談）を強調し、行動を促すキーワード。",
+            "keywords": [
+                "無料",
+                "0円",
+                "トライアル",
+                "お試しプラン",
+V                "相談",
+                "デモ"
+            ]
+        },
+        "action_trigger": {
+            "description": "具体的な行動（CV）を直接示すキーワード。",
+            "keywords": [
+                "資料請求",
+                "ダウンロード",
+                "問い合わせ",
+                "申込み",
+                "相談する",
+                "試してみる"
+            ]
+        },
+        "value_proposition": {
+            "description": "行動によって得られる具体的な価値（報酬）を示すキーワード。",
+            "keywords": [
+                "導入実績",
+                "決裁用資料",
+                "ROI試算",
+                "事例集",
+                "運用代行",
+                "サポート"
+            ]
+        }
+    },
+    "semantic_clusters": [
+        {
+            "cluster_name": "法令・義務対応 (Legal/Duty Compliance)",
+            "description": "派遣法の義務化対応に関連するキーワード群。",
+            "keywords": [
+                "義務",
+                "法改正",
+                "派遣法",
+                "年間8時間",
+                "キャリアアップ",
+                "計画書",
+                "報告書",
+                "労働局",
+                "助成金",
+                "罰則",
+                "許可停止",
+                "法律違反"
+            ]
+        },
+        {
+            "cluster_name": "教育手法・比較 (Education Methods/Comparison)",
+            "description": "具体的な教育手法と、それらを比較検討するためのキーワード群。",
+            "keywords": [
+                "OJT",
+                "集合研修",
+                "eラーニング",
+                "比較",
+                "メリット",
+                "デメリット",
+                "費用対効果",
+                "選定",
+                "ポイント",
+                "オンライン",
+                "スマホ"
+            ]
+        },
+        {
+            "cluster_name": "管理・運用 (Management/Operation)",
+            "description": "LMSの機能や、教育訓練の管理・運用工数に関連するキーワード群。",
+            "keywords": [
+                "管理",
+                "学習管理",
+                "LMS",
+                "進捗",
+                "履歴",
+                "一元管理",
+                "リマインド",
+                "運用",
+                "工数",
+                "削減",
+                "アウトソーシング",
+                "面倒",
+                "形骸化",
+                "受講率",
+                "作成"
+            ]
+        },
+        {
+            "cluster_name": "教材・コンテンツ (Materials/Content)",
+            "description": "eラーニングで提供される具体的な教材内容に関連するキーワード群。",
+            "keywords": [
+                "教材",
+                "カリキュラム",
+                "内容",
+                "業種",
+                "製造",
+                "物流",
+                "事務",
+                "IT",
+                "スキルアップ",
+                "ビジネスマナー",
+                "プログラム"
+            ]
+        },
+        {
+            "cluster_name": "【差別化】外国人対応 (Differentiator: Foreigner Support)",
+            "description": "競合との差別化要因となる、外国人スタッフ対応に関連するキーワード群。",
+            "keywords": [
+                "外国人",
+                "外国人材",
+                "日本語",
+                "生活ルール",
+                "多言語",
+                "ゴミ出し",
+                "NG行動",
+                "見えないコスト"
+            ]
+        },
+        {
+            "cluster_name": "導入・行動喚起 (Implementation/CTA)",
+            "description": "サービスの導入検討や、CV（行動喚起）に関連するキーワード群。",
+            "keywords": [
+                "導入",
+                "費用",
+                "料金",
+                "月額",
+                "従量課金",
+                "月額固定",
+                "無料",
+                "トライアル",
+                "お試しプラン",
+                "資料請求",
+                "問い合わせ",
+                "事例",
+                "サポート",
+                "決裁",
+                "ROI試算"
+            ]
+        }
+    ],
+    "keyword_density_analysis": {
+        "description": "競合上位10サイトの分析（シミュレーション）に基づく、推奨キーワード密度。",
+        "main_keyword": {
+            "keyword": "派遣 社員 e ラーニング",
+            "target_density": "1.5% - 2.0%",
+            "recommendation": "タイトル、導入文、H2見出し、まとめに必ず含め、本文全体に自然に配置する。"
+        },
+        "essential_keywords": {
+            "target_density": "各 0.5% - 1.0%",
+            "recommendation": "「義務」「法改正」「キャリアアップ」「年間8時間」などは、法的根拠として記事の信頼性を担保するために必須。"
+        },
+        "standard_keywords": {
+            "target_density": "各 0.2% - 0.5%",
+            "recommendation": "「LMS」「管理」「工数」「比較」など、読者の具体的な検討ニーズに応えるため、各セクションで網羅的に使用する。"
+        },
+        "unique_keywords": {
+            "target_density": "各 0.1% - 0.3%",
+            "recommendation": "「外国人」「生活ルール」「製造」など。密度よりも「戦略的配置」が重要。競合が触れていないため、専用のH2セクションを設けて深く掘り下げる。"
+        }
+    },
+    "lsi_keywords": {
+        "description": "メインキーワードの文脈を補強し、トピックの専門性を高めるための潜在意味キーワード。",
+        "keywords": [
+            "人材育成",
+            "スキルアップ",
+            "能力開発",
+            "研修",
+            "育成",
+            "離職防止",
+            "定着率向上",
+            "コンプライアンス",
+            "学習管理システム",
+            "教育DX"
+        ]
+    },
+    "competitor_keyword_gaps": {
+        "description": "競合上位10サイトが見落としている、または十分にカバーできていない（カバレッジが低い）戦略的キーワードギャップ。（工程0, 3Aの分析に基づく）",
+        "gaps": [
+            {
+                "gap_id": "GAP-01",
+                "theme": "外国人材の「生活ルール」教育 (Foreign Staff 'Life Rules' Education)",
+                "keywords": [
+                    "外国人",
+                    "外国人材",
+                    "生活ルール",
+                    "ゴミ出し",
+                    "NG行動",
+                    "見えないコスト",
+                    "多言語"
+                ],
+                "analysis": "競合の多くは「派遣法対応」と「一般的スキル（Excel等）」に集中している。「外国人スタッフ特有の生活指導（ゴミ出し、騒音、職場ルール）」という「見えないコスト」に焦点を当てている記事は皆無に等しい。これはペルソナ（工程3A）が抱える潜在的課題であり、最大の差別化ポイントとなる。"
+            },
+            {
+                "gap_id": "GAP-02",
+                "theme": "具体的な業種特化（製造・物流）(Specific Industry Specialization (Manuf/Logistics))",
+                "keywords": [
+                    "製造",
+                    "物流",
+                    "専門教材",
+                    "現場"
+                ],
+                "analysis": "「事務・IT」向けの教材は多いが、ペルソナ（工程3A）の主力である「製造・物流」現場に特化した教材（例：安全衛生、5S、ライン作業の心構え）への言及が不足している。GAP-1の「外国人」と組み合わせることで、「製造業で働く外国人向けの生活・業務ルール」という強力な独自ポジションを築ける。"
+            },
+            {
+                "gap_id": "GAP-03",
+                "theme": "管理工数の「アウトソーシング」 (Outsourcing of Management Man-Hours)",
+                "keywords": [
+                    "アウトソーシング",
+                    "運用代行",
+                    "手間",
+                    "面倒",
+                    "丸ごと",
+                    "リマインド"
+                ],
+                "analysis": "多くの競合は「LMS（ツール）」を提供し「管理が楽になる」と謳うが、ペルソナ（工程3A）が真に望む「管理業務そのもののアウトソーシング」まで踏み込んでいるサービスは少ない。ツールの提供だけでなく「運用の丸ごと代行」という選択肢を提示することで、工数削減ニーズに強く響く。"
+            },
+            {
+                "gap_id": "GAP-04",
+                "theme": "決裁者（人事部長）の「ROI」視点 (Decider's 'ROI' Perspective)",
+                "keywords": [
+                    "費用対効果",
+                    "ROI",
+                    "決裁",
+                    "経営会議",
+                    "ROI試算",
+                    "投資"
+                ],
+                "analysis": "多くの記事は「担当者」向けに機能比較や使い方を解説している。ペルソナ（工程3A）は「人事部長（決裁者）」であり、「教育＝コスト」ではなく「教育＝投資」として「ROI」を求めている。経営会議で使える「ROI試算」「決裁用資料」といったキーワードを提示することで、決裁者のニーズに直接応える。"
+            }
+        ]
+    }
+}
